@@ -1,0 +1,237 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #e6e1d7;
+}
+.titulo-copa{
+    border-bottom: 3px solid #900d22;
+    padding-bottom: 10px;
+}
+
+h1{
+    text-align: center;
+    color: #900d22;
+}
+
+ul{
+    float: left;
+    margin-right: 20px;
+    margin-left: 15px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+div{
+    background: white;
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 40px;
+    height: 200px;
+}
+
+.grupo{
+    float: right;
+    background: #cc0710;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    margin-right: 15px;
+    margin-top: -3px;
+    width: 20px;
+    height: 20px;
+}
+
+.russia{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-russia2x.png');
+    padding-bottom: 10px;
+}
+
+.arabia-saudita{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-saudi-arabia2x.png');
+    padding-bottom: 10px;
+}
+
+.egito{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-egypt2x.png');
+    padding-bottom: 10px;
+}
+
+.uruguai{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-uruguay2x.png');
+    padding-bottom: 10px;
+}
+
+table{
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr{
+    border-bottom: 2px solid #c1c1c1;;
+}
+
+td{
+    padding-top: 8px;
+    color: #464646;
+}
+
+.data{
+    padding-right: 15px;
+}
+
+.hora{
+    padding-right: 15px;
+    color: cadetblue;
+}
+
+.time-a{
+    padding-right: 15px;
+}
+
+.time-b{
+    padding-left: 15px;
+}
+
+.local{
+    padding-left: 15px;
+}
+
+.portugal{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-portugal2x.png');
+    padding-bottom: 10px;
+}
+
+.espanha{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-spain2x.png');
+    padding-bottom: 10px;
+}
+
+.marrocos{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-morocco2x.png');
+    padding-bottom: 10px;
+}
+
+.ira{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-iran2x.png');
+    padding-bottom: 10px;
+}
+
+.franca{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-france2x.png');
+    padding-bottom: 10px;
+}
+
+.australia{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-australia2x.png');
+    padding-bottom: 10px;
+}
+
+.peru{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-peru2x.png');
+    padding-bottom: 10px;
+}
+
+.dinamarca{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-denmark2x.png');
+    padding-bottom: 10px;
+}
+
+.argentina{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-argentina2x.png');
+    padding-bottom: 10px;
+}
+
+.islandia{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-iceland2x.png');
+    padding-bottom: 10px;
+}
+
+.croacia{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-croatia2x.png');
+    padding-bottom: 10px;
+}
+
+.nigeria{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-nigeria2x.png');
+    padding-bottom: 10px;
+}
+
+.brasil{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-brazil2x.png');
+    padding-bottom: 10px;
+}
+
+.suica{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-switzerland2x.png');
+    padding-bottom: 10px;
+}
+
+.costa-rica{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-thailand2x.png');
+    padding-bottom: 10px;
+}
+
+.servia{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-serbia2x.png');
+    padding-bottom: 10px;
+}
+
+.alemanha{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-germany2x.png');
+    padding-bottom: 10px;
+}
+
+.mexico{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-mexico2x.png');
+    padding-bottom: 10px;
+}
+
+.suecia{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-sweden2x.png');
+    padding-bottom: 10px;
+}
+
+.coreia{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-south-korea2x.png');
+    padding-bottom: 10px;
+}
+
+.belgica{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-belgium2x.png');
+    padding-bottom: 10px;
+}
+
+.panama{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-dominican-republic2x.png');
+    padding-bottom: 10px;
+}
+
+.tunisia{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-turkey2x.png');
+    padding-bottom: 10px;
+}
+
+.inglaterra{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-england2x.png');
+    padding-bottom: 10px;
+}
+
+.polonia{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-poland2x.png');
+    padding-bottom: 10px;
+}
+
+.senegal{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-senegal2x.png');
+    padding-bottom: 10px;
+}
+
+.colombia{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-colombia2x.png');
+    padding-bottom: 10px;
+}
+
+.japao{
+    list-style-image: url('https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-japan2x.png');
+    padding-bottom: 10px;
+}
